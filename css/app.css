@@ -1,0 +1,31 @@
+.warningStatus
+{
+	background-color: orange;
+}
+.okStatus
+{
+	background-color: #788bff;
+}
+.highDiv
+{
+	height: 100px;
+}
+.lowDiv
+{
+	height: 50px;
+}
+.myTable
+{
+	width: 100%;
+	border: solid 1px black;
+}
+.myTable td
+{
+	border: solid 1px black;
+}
+
+.warningStatus.lowDiv .lowDiv
+{
+	font-size: 16pt;
+	text-align: center;
+}
