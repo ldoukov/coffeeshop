@@ -29,3 +29,8 @@
 	font-size: 16pt;
 	text-align: center;
 }
+
+span.block
+{
+	display: block;
+}
